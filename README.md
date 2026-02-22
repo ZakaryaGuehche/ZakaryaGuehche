@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zakarya Guehche</h1>
 
 <p align="center">
-  <strong>Data Analyst & Data Scientist Junior | Mathematics & AI Enthusiast</strong><br>
+  <strong>Data Analyst & Data Scientist | Mathematics & AI </strong><br>
   <em>Currently pursuing a degree in Applied Mathematics (L3) at Sorbonne Paris Nord. Admitted to the Master of Science in Computer Science & Data Science at ESILV for the next school year.</em>
 </p>
 
@@ -11,7 +11,7 @@
 
 - 🎓 Applied Mathematics student with a strong foundation in **statistics, probability, and programming**.
 - 📊 Passionate about **data analysis, machine learning, and data-driven decision making**.
-- 🔍 Currently seeking a **2-year apprenticeship** as a **Data Analyst / Data Scientist Junior**.
+- 🔍 Currently seeking a **2-year apprenticeship** as a **Data Analyst / Data Scientist **.
 - 🌍 Based in **Paris, France**.
 
 ---
@@ -130,7 +130,7 @@
 
 ## 🎯 Looking for an Apprenticeship!
 
-> 💼 I'm actively seeking a **2-year apprenticeship** (alternance) as a **Data Analyst / Data Scientist Junior**.
+> 💼 I'm actively seeking a **2-year apprenticeship** (alternance) as a **Data Analyst / Data Scientist **.
 >
 > 📅 **Schedule:** 3 weeks in company / 1 week at school
 >
