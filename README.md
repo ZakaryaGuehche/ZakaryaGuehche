@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Data Analyst & Data Scientist Junior | Mathematics & AI Enthusiast</strong><br>
-  <em>Currently pursuing a degree in Applied Mathematics (L3) at Sorbonne Paris Nord. Admitted to the Master of Science in Computer Science & Data Science at ESILV for September 2026.</em>
+  <em>Currently pursuing a degree in Applied Mathematics (L3) at Sorbonne Paris Nord. Admitted to the Master of Science in Computer Science & Data Science at ESILV for the next school year.</em>
 </p>
 
 ---
@@ -112,7 +112,7 @@
 | Language | Level |
 |----------|-------|
 | 🇫🇷 French | Native |
-| 🇬🇧 English | Professional |
+| 🇬🇧 English | C1 |
 | 🇸🇦 Arabic | B2 |
 | 🇪🇸 Spanish | A2 |
 
@@ -142,8 +142,6 @@
 
 ## 🎮 Interests
 
-🥊 Combat Sports • ⚽ Football • 🚶 Walking • 💡 Tech Watch • 🔧 Industrial Innovation
+🥊 Combat Sports • ⚽ Football •💡 Tech Watch • 🔧 Industrial Innovation
 
----
 
-![snake gif](https://github.com/ZakaryaGuehche/ZakaryaGuehche/blob/output/github-contribution-grid-snake.svg)
